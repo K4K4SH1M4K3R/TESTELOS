@@ -5,7 +5,10 @@
 <p align="center" ><img alt="error" src="https://image.freepik.com/premium-vector/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-coding-hacker-background_127544-1186.jpg"></p>
 
 <h1 align="center">Los Hermanos (COD by kakashimaker)</h1>
-
-# TESTELOS
-
-TESTE LOS
+ 
+ <p align="center">
+    Bem vindo ao script da los hermanos espero que esteja lendo os texto os cript n é um script de fazer nd apenas oque vc tem que fazer é escoler a opção de programação que queira aprender bom script :)
+  </p>
+</p> 
+ 
+ #
