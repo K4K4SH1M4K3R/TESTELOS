@@ -79,7 +79,7 @@ print ('BEM VINDO AO SCRIPT LA LOS HERMANOS')
 
 print ('OK VAMOS COMEÇAR')
 
-import LOS HERMANOS
+import sqlite3
 
 MASTER_PASSWORD = "los"
 
