@@ -110,8 +110,7 @@ conn.close()
 import os
 
 print("olaaaaa amigos")
-def menu():
-print("******************************************************")
+
 1 - ('https://github.com/Zian25/UniTools-Termux')   
 
 1 - ('https://jornadadodev.com.br/cursos')
