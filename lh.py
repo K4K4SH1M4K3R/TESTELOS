@@ -5,7 +5,6 @@ if sys.version_info[0] < 3:
     exit(0)
     
    
-idioma = open("modulos/idioma.txt", "r+")
 leitor = idioma.readlines()
 analisa = len(leitor)
 if not analisa:
