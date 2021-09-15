@@ -74,6 +74,7 @@ with open("modulos/idioma.txt", "r") as a:
     
 import os
 
+banner()
 print ('BEM VINDO AO SCRIPT LA LOS HERMANOS')
 
 print ('OK VAMOS COMEÇAR')
@@ -82,8 +83,37 @@ import LOS HERMANOS
 
 MASTER_PASSWORD = "los"
 
+senha = input("Insira a senha: ")
+if senha != MASTER_PASSWORD:
+	print("senha correta ....: ")
+	exit()
+
 conn = loshermanos.connect('passwords.db')
 
 cursor = conn.cursor()
 
-cursor.execute(
+cursor.execute('''
+CREATE TABLE IF NOT EXISTS users (
+    service TEXT NOT NULL,
+    username TEXT NOT NULL,
+    password TEXT NOT NULL
+);
+''')
+
+conn.close()
+
+
+
+
+
+
+import os
+
+print("olaaaaa amigos")
+def menu():
+print("******************************************************")
+1 - ('https://github.com/Zian25/UniTools-Termux')   
+
+1 - ('https://jornadadodev.com.br/cursos')
+
+
