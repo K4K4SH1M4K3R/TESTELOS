@@ -1,6 +1,7 @@
 
 import os
 
+def menu():
 print("olaaaaa amigos: ")
 
 print("https://github.com/Zian25/UniTools-Termux")   
